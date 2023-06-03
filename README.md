@@ -1,4 +1,4 @@
-# The-Guess-Game
+# The Guess Game
 
 Easy to play simple website game.
 
